@@ -12,18 +12,18 @@ Bienvenue sur mon profil GitHub ! Je suis un développeur passionné par la tech
 
 ## 📘 Projets récents
 
-- [Nom du projet 1](https://github.com/Jeanparker100/NomDuProjet1) : Description rapide du projet, les technologies utilisées et ce que le projet accomplit.
-- [Nom du projet 2](https://github.com/Jeanparker100/NomDuProjet2) : Description rapide du projet, les technologies utilisées et ce que le projet accomplit.
-- [Nom du projet 3](https://github.com/Jeanparker100/NomDuProjet3) : Description rapide du projet, les technologies utilisées et ce que le projet accomplit.
+- [PARKY-BUG-BOT](https://github.com/Jeanparker100/PARKY-BUG-BOT) : Ceci es un bot WhatsApp de fun pour faire fes petit prank à ses amis comme pour bugger leur application de messagerie et bien d'autres.
+- [PARKY-WEB](https://github.com/Jeanparker100/PARKY-WEB) : PARKY-WEB est un petit sute qyi permet de générer des session-id creds.json pour les bot WhatsApp utilisant baileys.
+- [Kambe-blog](https://github.com/Jeanparker100/Kambe-blog) : C'est un site web pour permettre de publier des articles de journal.
 
 ## 🌱 En ce moment, j'apprends
 
-- [Nouvelle technologie ou langage] : Pourquoi tu apprends ceci et comment tu l'intègres dans tes projets.
-- [Autre compétence] : Développe ce que tu souhaites apprendre ou améliorer.
+- [La création des sites web et des Bots.] : c'est ma passion j'aime bien voir les Bots WhatsApp en action pour aidé à faciliter la gestion de ce messagerie et bien d'autres messagerie ! pour les sites web je veux juste pouvoir publier mes articles de journal les faire connaître au grand monde.
+- [J'aime tout ce qui touche l'informatique] : Les jeux vidéos les hacks les Fishings sont des choses qui me passionne énormément !
 
 ## 📫 Comment me contacter
 
-- LinkedIn : [Jean Parker](https://www.linkedin.com/in/jeanparker100/)
-- Email : jeanparker100@example.com
+- WhatsApp: [Jean Parker](https://wa.me/22898133388)
+- Email : parjjean@gmail.com
 
 N'hésite pas à explorer mes projets et à me contacter si tu souhaites collaborer ou simplement discuter de technologie !
